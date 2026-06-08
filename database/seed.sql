@@ -3,7 +3,7 @@
 -- Populates the database with stocks, histories, users, and portfolio items
 -- ============================================================================
 
-USE stocklens;
+-- USE stocklens;
 
 -- 1. Seed USERS (Passwords are mocked bcrypt hashes of 'password123')
 INSERT INTO USERS (username, email, password_hash) VALUES

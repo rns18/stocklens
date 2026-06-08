@@ -3,8 +3,8 @@
 -- Enterprise-grade stock analysis and portfolio management database architecture
 -- ============================================================================
 
-CREATE DATABASE IF NOT EXISTS stocklens;
-USE stocklens;
+-- CREATE DATABASE IF NOT EXISTS stocklens;
+-- USE stocklens;
 
 -- Disable foreign key checks to allow clean rebuilds
 SET FOREIGN_KEY_CHECKS = 0;
